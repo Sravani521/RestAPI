@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package dslVersion="1.0.0.0" 
+        Id="11fc9f0d-7c1c-433a-a3d5-1251ddfb8a01" 
+        solutionId="11fc9f0d-7c1c-433a-a3d5-1251ddfb8a01" 
+        xmlns="http://schemas.microsoft.com/VisualStudio/2008/SharePointTools/PackageModel" 
+        name="RestAPI"
+        sharePointProductVersion="16.0">
+  <features>
+        <featureReference itemId="29784839-f3f4-4035-acb7-0cfa3fe27530" />
+  </features>
+</package>

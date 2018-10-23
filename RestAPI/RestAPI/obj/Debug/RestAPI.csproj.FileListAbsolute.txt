@@ -1,0 +1,5 @@
+D:\sravani\sharepoint\RestAPI\RestAPI\bin\Debug\RestAPI.pdb
+D:\sravani\sharepoint\RestAPI\RestAPI\obj\Debug\RestAPI.csprojAssemblyReference.cache
+D:\sravani\sharepoint\RestAPI\RestAPI\obj\Debug\RestAPI.csproj.CoreCompileInputs.cache
+D:\sravani\sharepoint\RestAPI\RestAPI\obj\Debug\RestAPI.dll
+D:\sravani\sharepoint\RestAPI\RestAPI\obj\Debug\RestAPI.pdb
